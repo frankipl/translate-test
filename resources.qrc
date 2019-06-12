@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/config.json</file>
+        <file>qml/LangSelect.qml</file>
+        <file>qml/LanguageRow.qml</file>
+        <file>qml/Main.qml</file>
+        <file>translations/translate-test_de.qm</file>
+        <file>translations/translate-test_en.qm</file>
+    </qresource>
+</RCC>
